@@ -1,2 +1,2 @@
 # BaseALTnews
-To build, create public app at build.phonegap.com and then pull this git as a source 
+To build, create public app at build.phonegap.com and from there pull this repo as a source 
